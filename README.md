@@ -19,8 +19,3 @@ This project demonstrates data cleaning in Python (pandas) using a movie dataset
 ## 📊 Future Work
 - Exploratory Data Analysis (EDA)
 - Visualizations of genre distribution, ratings, etc.
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook data_cleaning.ipynb
